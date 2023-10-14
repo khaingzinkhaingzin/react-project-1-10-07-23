@@ -19,7 +19,7 @@ const App = () => {
 	};
 
 	useEffect(() => {
-		searchMovies('Chef');
+		searchMovies('Selena');
 	}, []);
 
 	return (
